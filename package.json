@@ -1,0 +1,25 @@
+{
+  "name": "clamp",
+  "version": "0.0.1",
+  "description": "add ellipsis for multi line text",
+  "main": "clamp-module.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontnode/Clamp.js.git"
+  },
+  "keywords": [
+    "clamp"
+  ],
+  "author": "Joseph J. Schmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontnode/Clamp.js/issues"
+  },
+  "homepage": "https://github.com/frontnode/Clamp.js#readme"
+}
