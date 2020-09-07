@@ -1,5 +1,5 @@
 {
-  "name": "clamp",
+  "name": "@maiscrm/clamp",
   "version": "0.0.1",
   "description": "add ellipsis for multi line text",
   "main": "clamp-module.js",
@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frontnode/Clamp.js.git"
+    "url": "git@github.com:maiscrm/Clamp.js.git"
   },
   "keywords": [
     "clamp"
   ],
   "author": "Joseph J. Schmitt",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/frontnode/Clamp.js/issues"
-  },
-  "homepage": "https://github.com/frontnode/Clamp.js#readme"
+  "homepage": "https://github.com/maiscrm/Clamp.js/blob/master/README.markdown"
 }
